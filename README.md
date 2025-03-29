@@ -14,7 +14,8 @@
 
 <!-- <a href="http://Wa.me/201028205960" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 
-<p> <a href="https://www.facebook.com/profile.php?id=100008171740842" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ezzeldin-mahmoud/" target="_blank">[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)<p>
+<p> <a href="https://www.facebook.com/profile.php?id=100008171740842" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ezzeldin-mahmoud/" target="_blank"><p>
+ [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
 
 
