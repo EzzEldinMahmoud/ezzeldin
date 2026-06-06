@@ -10,7 +10,7 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- personal email : ezzeldin.mahmoud78@gmail.com
+- personal email : 
 
 <!-- <a href="http://Wa.me/201028205960" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 
