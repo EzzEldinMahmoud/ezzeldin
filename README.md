@@ -195,6 +195,8 @@ My long-term interests are focused on:
 ---
 
 ## Contact
+**Email**
+ezzeldin.mahmoud@mightfreelancer.com
 
 **LinkedIn**
 [www.linkedin.com/in/ezzeldin-mahmoud](http://www.linkedin.com/in/ezzeldin-mahmoud)
