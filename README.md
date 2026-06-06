@@ -25,29 +25,31 @@
 <h2> Samples from my projects </h2>
 
 
-### Vultara
-Vultara, Inc. provides web-based product security risk management tools for electronics manufacturers. Our product portfolio covers a wide range of cybersecurity engineering services and tools. Our flagship product, Vultara, provides a comprehensive CSMS covering cybersecurity engineering from concept design automation to cybersecurity information & event monitoring.
+### Vultara Inc
+* 18 MARCH 2024 - 27 SEPT 2024
+- Vultara, Inc. provides web-based product security risk management tools for electronics manufacturers. Our product portfolio covers a wide range of cybersecurity engineering services and tools. Our flagship product, Vultara, provides a comprehensive CSMS covering cybersecurity engineering from concept design automation to cybersecurity information & event monitoring.
+My Role : Full Stack NodeJs Developer
 <p>
- <a href="https://vultara.com" target="_blank"><img alt="Vultara inc" src="https://media.licdn.com/dms/image/v2/D560BAQH3ExcGrLNJTg/company-logo_200_200/company-logo_200_200/0/1681872722259/vultara_logo?e=1748476800&v=beta&t=Ahrs0SfP9hPgvpdET5HdAawsISUsBV93Oqw8tBHelw0" /></a><p>
+ <a href="https://vultara.com" target="_blank"><img alt="Vultara inc" src="" /></a><p>
+
+<hr>
+
+### Mozare3
+* 15 MAY 2025 - 14 SEPT 2025
+- AgriTech company that control and collect and commerce from farmers to big corporations
+My Role : Full Stack .NET Developer
+<p>
+ <a href="https://Mozare3.com" target="_blank"><img alt="Mozare3" src="" /></a><p>
+
+<hr>
+
+### Vodafone Egypt
+* 14 SEPT 2025 - Present
+- Telecom Company.
+My Role : JAVA Backend Developer
+<p>
+ <a href="https://vodafone.com.eg" target="_blank"><img alt="Vodafone Egypt" src="" /></a><p>
 
 <hr>
 
 
-
-<!-- - android : https://play.google.com/store/apps/details?id=org.mdarsa.kids
-- ios : https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013 -->
-<!--
-**EzzEldinMahmoud/ezzeldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
