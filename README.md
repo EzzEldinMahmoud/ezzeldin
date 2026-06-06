@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2> Samples from my projects </h2>
+<h2> My Job History </h2>
 
 
 ### Vultara Inc
