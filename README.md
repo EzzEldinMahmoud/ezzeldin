@@ -151,9 +151,9 @@ Throughout my career and personal projects, I have worked with:
 
 * Spring Boot
 * ASP.NET Core
-* Node.js
-* Entity Framework
-* Spring Data JPA
+* Nest.js
+* Django
+
 
 ### Databases
 
