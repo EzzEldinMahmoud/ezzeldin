@@ -22,7 +22,7 @@ Over the years I have worked on:
 * Full-stack web applications
 * CI/CD pipelines and deployment automation
 
-My current focus is backend engineering, cloud-native systems, distributed architectures, and AI-powered applications.
+My current focus is backend engineering, IOS Development , cloud-native systems, distributed architectures, and AI-powered applications.
 
 ---
 
@@ -70,7 +70,7 @@ Key contributions:
 
 **Technologies**
 
-C#, ASP.NET Core, SQL Server, Odoo
+C#, ASP.NET Core, SQL Server, Odoo, Angular
 
 ---
 
@@ -91,7 +91,7 @@ Key contributions:
 
 **Technologies**
 
-Node.js, TypeScript, Web Technologies
+Node.js, TypeScript, Web Technologies, Angular
 
 ---
 
