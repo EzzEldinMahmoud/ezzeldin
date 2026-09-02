@@ -99,6 +99,12 @@ Node.js, TypeScript, Web Technologies
 
 Throughout my career and personal projects, I have worked with:
 
+### Frontend Development
+
+* React & Next.js
+* Angular
+* Swift UI  (IOS Native)
+  
 ### Backend Development
 
 * Java & Spring Boot
@@ -177,7 +183,7 @@ Throughout my career and personal projects, I have worked with:
 * Advanced Spring Ecosystem
 * AI Agents
 * Large Language Models (LLMs)
-* Android Native Development
+* IOS Native Development
 
 ---
 
